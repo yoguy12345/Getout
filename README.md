@@ -1,2 +1,2 @@
 # Getout
-Get out of the maze!s
+Get out of the maze
